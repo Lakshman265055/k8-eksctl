@@ -1,5 +1,5 @@
 apiVersion: eskctl.io/v1alpha5
-kind: ClustringConfig
+kind: ClusterConfig
 
 metadata:
   name: expense-1
